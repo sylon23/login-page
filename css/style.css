@@ -1,0 +1,17 @@
+body {
+  background-image: url("../img/blue-background.jpg"); }
+
+h3 {
+  text-align: center;
+  color: blue;
+  font-size: 2em;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif; }
+
+form input {
+  width: 100%;
+  border: none; }
+
+.middle {
+  margin-top: 90px; }
+
+/*# sourceMappingURL=style.css.map */
